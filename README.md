@@ -1,1 +1,4 @@
-# gitTest1
+#gitTest1
+
+open gitTest1
+
