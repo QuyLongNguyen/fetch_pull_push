@@ -2,4 +2,5 @@
 
 open gitTest1
 
-again
+again 
+edit in local repository
